@@ -1,0 +1,13 @@
+[
+    {"id":101, "name":"bhavna","subject":"maths","salary":40000,"department":"cse"},
+   
+    {"id":102, "name":"ravi","subject":"computer networks","salary":35000,"department":"ece"},
+    
+   
+    {"id":103, "name":"nivas","subject":"machine learning","salary":40000,"department":"csm"},
+    
+    {"id":104, "name":"samuel","subject":"engineering graphics","salary":35000,"department":"cse"},
+    
+    {"id":105, "name":"sania","subject":"chemistry","salary":35000,"department":"csm"}
+    
+]

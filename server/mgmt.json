@@ -1,0 +1,12 @@
+[
+    {"name":"suhasini","designation":"president","age": 50,"gender": "female","contact no": 7878787878},
+
+    { "name":"pavitra","designation":"director","age": 27,"gender": "female","contact no": 878787878},
+
+    {"name":"naziya","designation":"director","age": 33,"gender": "female","contact no": 909090900},
+
+    {"name":"namitha","designation":"principal","age": 44,"gender": "female","contact no": 676767676},
+    
+    {"name":"eshwar","designation":"vice principal","age": 45,"gender": "male","contact no": 454545455}
+
+]

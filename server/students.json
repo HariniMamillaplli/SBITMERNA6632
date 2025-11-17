@@ -1,0 +1,5 @@
+[
+    {"id":123, "name":"varsh","branch":"csm","cgpa":8.5},
+    {"id":173, "name":"harini","branch":"csd","cgpa":8.2 },
+    {"id":193, "name":"maneesha","branch":"cse","cgpa":8.6 }
+]
